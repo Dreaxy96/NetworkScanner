@@ -58,5 +58,6 @@ Enter the IP address to scan for open ports: 192.168.1.101
 
 Open Ports: [22, 80, 443]
 ```
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
